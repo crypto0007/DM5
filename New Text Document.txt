@@ -1,0 +1,3 @@
+dot -Tpdf iris-decision-tree.dot -o iris-decision-tree.pdf
+
+dot -Tpdf breast-cancer-decision-tree.dot -o breast-cancer-decision-tree.pdf
